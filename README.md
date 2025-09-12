@@ -1,4 +1,3 @@
-## Hi there 👋
 # 💫 About Me:
 Hi, I’m Harsha Vardhan, a Computer Science student with hands-on experience in full-stack development, AWS cloud, and low-code platforms<br>like Pega Constellation. Skilled in building applications, automating workflows, and delivering scalable solutions<br>using both code and low-code tools. Looking for an entry-level software developer role to apply technical expertise<br>and grow with a forward-thinking organization.<br>
 
