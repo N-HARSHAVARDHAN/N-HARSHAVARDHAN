@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/harsha vardhan.n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsha vardhan.n" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/harsha3333" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@9.17.0/icons/codechef.svg" alt="harsha3333" height="30" width="40" />
+  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
 </a>
 
 <a href="https://www.hackerrank.com/harshavardhan535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshavardhan535" height="30" width="40" /></a>
