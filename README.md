@@ -11,11 +11,18 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1EI25CneqsBsGUzYKWOmUY_DrvgQPBFGN/view?usp=sharing](https://drive.google.com/file/d/1EI25CneqsBsGUzYKWOmUY_DrvgQPBFGN/view?usp=sharing)
 
+## 👔 Connect with me  
+
 <p align="left">
   <a href="https://linkedin.com/in/harsha-vardhan.N" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+---
+
+## 💻 Coding Profiles  
+
 <p align="left">
   <a href="https://github.com/N-HARSHAVARDHAN" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
