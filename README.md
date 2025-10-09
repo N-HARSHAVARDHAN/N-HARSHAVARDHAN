@@ -12,12 +12,22 @@
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1EI25CneqsBsGUzYKWOmUY_DrvgQPBFGN/view?usp=sharing)  
 
 ---
-
 ## 👔 Connect with Me  
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://linkedin.com/in/harsha-vardhan.N" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:harshavardhan53595@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+
+  <!-- Outlook -->
+  <a href="mailto:22a91a0538@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
   </a>
 </p>
 
