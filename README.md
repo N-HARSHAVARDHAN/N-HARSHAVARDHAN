@@ -5,11 +5,11 @@
 
 ### 🌟 About Me  
 
-- 🌱 Currently learning **Node.js, Express.js, AWS advanced services, and Pega Constellation**  
+- 🌱 Currently learning PYTHON,**Node.js, Express.js, AWS advanced services, and Pega Constellation**  
 - 👨‍💻 All of my projects are available at [Portfolio](https://nharsha.vercel.app/)  
-- 💬 Ask me about **C++, AWS, Full-Stack Development, Pega, and Cloud Automation**  
+- 💬 Ask me about PYTHON, **C++, AWS, Full-Stack Development, Pega, and Cloud Automation**  
 - 📫 Reach me at **harshavardhan53595@gmail.com**  
-- 📄 Check out my [Resume](https://drive.google.com/file/d/1EI25CneqsBsGUzYKWOmUY_DrvgQPBFGN/view?usp=sharing)  
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1cUcXhQRPECZ2A3sz2DbYwjI-yHkw2_pH/view?usp=sharing)  
 
 ---
 ## 👔 Connect with Me  
