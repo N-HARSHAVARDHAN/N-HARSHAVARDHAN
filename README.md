@@ -80,14 +80,4 @@
 
 ---
 
-## 📊 GitHub Stats  
 
-<p align="center">
-  <!-- Top Languages (excluding big notebook repos) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=n-harshavardhan&layout=compact&exclude_repo=notebook-repo-name1,notebook-repo-name2&hide=html,css&locale=en" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <!-- Overall GitHub stats (excluding big notebook repos) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=n-harshavardhan&show_icons=true&exclude_repo=notebook-repo-name1,notebook-repo-name2&locale=en" alt="GitHub Stats"/>
-</p>
